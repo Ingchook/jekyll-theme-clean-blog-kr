@@ -6,7 +6,7 @@ author:             "Ingchook"
 baseurl:            "/"
 url:                "https://mo-review.me"
 locale:             "ko_KR"
-thumbnail:          "/img/mo-review_v1_main.jpg"
+thumbnail:          "/img/main.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
