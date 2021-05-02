@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mo-review.me/sitemap.xml
+#DaumWebMasterTool:aa68f2009e43d718338c96a790d88574af01c63a30c18ce835c90338ea0dd625:SBDn+3M1gAUD2c6N/ci3rg==
